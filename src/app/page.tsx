@@ -54,7 +54,7 @@ export default function Home() {
       <header style={{background:"#111827",color:"white",padding:24,borderRadius:14,marginBottom:18}}>
         <h1 style={{margin:0,fontSize:30}}>미니 방명록</h1>
         <p style={{margin:"8px 0 0",opacity:.85}}>이름, 메시지, 작성 시각이 함께 기록됩니다.</p>
-        <small style={{display:"block",marginTop:14,opacity:.75}}>개발자: 장희현 · 학번: 202202453</small>
+        <small style={{display:"block",marginTop:14,opacity:.75}}>개발자: 장희현 · 학번: 202104324</small>
       </header>
 
       <form onSubmit={create} style={{background:"white",padding:20,borderRadius:14,marginBottom:18}}>
