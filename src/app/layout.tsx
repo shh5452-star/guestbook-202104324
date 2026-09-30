@@ -5,8 +5,8 @@ import './globals.css'
 const geistSans = Geist({ variable: '--font-geist-sans', subsets: ['latin'] })
 
 export const metadata: Metadata = {
-  title: 'KNU 맛집 지도 🍽️',
-  description: '강남대학교 학생들이 만드는 맛집 추천 커뮤니티',
+  title: '강남대 방명록',
+  description: '강남대학교 미니 방명록 · 202104324 장희현',
 }
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
